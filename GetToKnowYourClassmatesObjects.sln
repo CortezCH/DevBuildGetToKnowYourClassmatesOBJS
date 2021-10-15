@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetToKnowYourClassmatesObjects", "GetToKnowYourClassmatesObjects\GetToKnowYourClassmatesObjects.csproj", "{964DE198-99C2-41D3-B0E8-2B5A6D862E80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{964DE198-99C2-41D3-B0E8-2B5A6D862E80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{964DE198-99C2-41D3-B0E8-2B5A6D862E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{964DE198-99C2-41D3-B0E8-2B5A6D862E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{964DE198-99C2-41D3-B0E8-2B5A6D862E80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38437E47-77B8-47AB-9055-705378D01036}
+	EndGlobalSection
+EndGlobal
